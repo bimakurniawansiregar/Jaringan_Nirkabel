@@ -1,10 +1,7 @@
 ## Jaringan Nirkabel.
 
-### merupakan suatu teknologi yang menggunakan dua piranti untuk bertukar data tanpa membutuhkan kabel untuk mentransmisikan data, dengan begitu kita tidak perlu repot-repot untuk banyak melakukan sebuah pengaturan kabel dan pengkrimpingan kabel. 
-
+### Merupakan suatu teknologi yang menggunakan dua piranti untuk bertukar data tanpa membutuhkan kabel untuk mentransmisikan data, dengan begitu kita tidak perlu repot-repot untuk banyak melakukan sebuah pengaturan kabel dan pengkrimpingan kabel. 
 Jaringan nirkabel ini menggunakan beberapa macam media transmisi tanpa kabel, seperti: gelombang radio, gelombang mikro, ataupun cahaya infra merah. Jaringan nirkabel ini sering digunakan untuk jaringan komputer baik dalam jarak dekat (beberapa meter, menggunakan perangkat bluetooth) atau jarak jauh (via satelit). Bidang ini terkait erat dengan bidang telekomunikasi, teknologi informasi, dan teknik komputer. Jenis jaringan yang populer dalam kategori jaringan nirkabel ini meliputi: Jaringan area lokal nirkabel (LAN nirkabel / WLAN), dan Wi-Fi.
-
-
 
 ## Keamanan Jaringan Nirkabel.
 
