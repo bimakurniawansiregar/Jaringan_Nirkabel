@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Jaringan Nirkabel.
 
-You can use the [editor on GitHub](https://github.com/bimakurniawansiregar/Jaringan_Nirkabel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Merupakan suatu teknologi yang menggunakan dua piranti untuk bertukar data tanpa membutuhkan kabel untuk mentransmisikan data, dengan begitu kita tidak perlu repot-repot untuk banyak melakukan sebuah pengaturan kabel dan pengkrimpingan kabel. 
+Jaringan nirkabel ini menggunakan beberapa macam media transmisi tanpa kabel, seperti: gelombang radio, gelombang mikro, ataupun cahaya infra merah. Jaringan nirkabel ini sering digunakan untuk jaringan komputer baik dalam jarak dekat (beberapa meter, menggunakan perangkat bluetooth) atau jarak jauh (via satelit). Bidang ini terkait erat dengan bidang telekomunikasi, teknologi informasi, dan teknik komputer. Jenis jaringan yang populer dalam kategori jaringan nirkabel ini meliputi: Jaringan area lokal nirkabel (LAN nirkabel / WLAN), dan Wi-Fi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Keamanan Jaringan Nirkabel.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bimakurniawansiregar/Jaringan_Nirkabel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Sistem keamanan jaringan komputer adalah suatu sistem untuk mencegah dan mengidentifikasi penggunaan yang tidak sah dari jaringan komputer. Langkah-langkah pencegahan membantu menghentikan pengguna yang tidak sah yang disebut “penyusup” untuk mengakses setiap bagian dari sistem jaringan komputer . Tujuan keamanan jaringan komputer adalah untuk mengantisipasi resiko jaringan komputer berupa bentuk ancaman fisik maupun logik baik langsung ataupun tidak langsung mengganggu aktivitas yang sedang berlangsung dalam jaringan komputer.
